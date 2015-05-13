@@ -1,0 +1,54 @@
+First, I'd like to tell you about my scientific neighborhood,
+Tout d'abord, j'aimerais vous parler de mon entourage scientifique,
+
+the concepts and ideas that are a fundamental part of my work,
+les concepts et idées qui font partie intégrante de mon travail,
+
+and shape my reflections and my perspectives on robotics.
+et qui influencent ma réflexion et mes points de vue sur la robotique.
+
+First off, let's just quickly define what a robot is.
+Premièrement, commençons par donner une définition de 'robot'.
+
+Robots are synthetic systems that process information from sensors in order to self-produce motion.
+Les robots sont des systèmes artificiels qui traite les informations provenant de leur capteurs en vue d'auto-produire du mouvement.
+
+One of the most fundamental thing about robots is that they produce motion, and they produce motion themselves.
+L'une des chose les plus fondamentale à propos de robots est qu'ils produisent du mouvement, et qu'ils produisent ce mouvement eux-même.
+
+But this is not enough.
+Mais cela ne suffit pas.
+
+This motion has to be mediated by information from sensors. Robots are not just executing, they are making decisions.
+Ce mouvement doit être influencé par les informations venant des capteurs. Les robots ne sont pas de simples executant, ils prennent des décisions.
+
+Your fan is not a robot. Your computer is not a robot.
+Votre ventilateur n'est pas un robots. Votre ordinateur n'est pas un robot.
+
+But your washing machine might be, if it regulates is tumbling speed by monitoring it from a sensor.
+Mais votre machine à laver l'est peut-être, si elle regule sa vitesse de rotation en la surveillant grâce à un capteur.
+
+Alright. So this is a definition of a robot.
+Ok. Donc c'est la définition d'un robot.
+
+Now I want to stress that there are fundamental differences between machine learning and robotic learning.
+Maintenant, je souhaite insister sur le fait qu'il existe des différences fondamentale entre l'apprentissage machine et l'apprentissage chez les robots.
+
+In short, robots can't learn like computers.
+En bref, les robots ne peuvent pas apprendre comme les ordinateurs.
+
+Developmental robotics is a wonderful field.
+La robotique developpementale est un champs de recherche extraordinaire.
+
+Like the name implies, it is interested with the idea of development in robots.
+Comme le nom l'indique, elle s'intéresse à l'idée du development chez les robots.
+
+The idea is for robots to have a childhood,
+L'idée, c'est de donner une enfance aux robots,
+
+where they are not expected to be useful,
+pendant laquelle ils n'ont pas à être utiles,
+
+where they can learn and discover the world through play, like children do.
+et au contraire, ils peuvent apprendre et découvrir le monde en s'amusant, comme font les enfants.
+
